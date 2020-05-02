@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- wallet___4 strings -->
+
+	<string name="app_name">Wallet  4</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="___time_string">9:41</string>
+	<string name="weekly_report_string">weekly report</string>
+	<string name="expenses_string">expenses</string>
+	<string name="deposit_string">deposit</string>
+	<string name="movie_string">movie</string>
+	<string name="_02__monday_string">02- Monday</string>
+	<string name="spend_on_fun_mall_cinema_string">Spend on fun mall cinema</string>
+	<string name="__23_00_string">$23.00</string>
+	<string name="coffee_string">coffee</string>
+	<string name="_02__monday_ek1_string">02- Monday</string>
+	<string name="spend_on_starbucks_string">Spend on starbucks</string>
+	<string name="__20_12_string">$20.12</string>
+	<string name="shop_string">shop</string>
+	<string name="_01__sunday_string">01- Sunday</string>
+	<string name="spend_on_super_market_string">Spend on super market</string>
+	<string name="__12_45_string">$12.45</string>
+	<string name="shop_ek1_string">shop</string>
+	<string name="_01__sunday_ek1_string">01- sunday</string>
+	<string name="spend_on_super_market_ek1_string">Spend on super market</string>
+	<string name="__75_24_string">$75.24</string>
+</resources>

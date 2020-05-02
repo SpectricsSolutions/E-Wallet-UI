@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- wallet___4 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__wallet___4_color">#f4f4f4</color>
+	<color name="rectangle_571_color">#ffffff</color>
+	<color name="___time_color">#000000</color>
+	<color name="rectangle_580_color">#ebebeb</color>
+	<color name="rectangle_580_ek7_color">#2b2b2b</color>
+	<color name="rectangle_580_ek14_color">#ff1c62</color>
+	<color name="rectangle_569_color">#000000</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- wallet___animation___1 strings -->
+
+	<string name="app_name">Wallet  Animation  1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="___time_string">9:41</string>
+	<string name="wallet_balance_string">wallet balance</string>
+	<string name="__1_345_00_string">$1,345.00</string>
+	<string name="__124_00_string">$124.00</string>
+	<string name="______1234_string">**** 1234</string>
+	<string name="__234_85_string">$234.85</string>
+	<string name="______1745_string">**** 1745</string>
+	<string name="weekly_report_string">weekly report</string>
+	<string name="expences_string">expences</string>
+	<string name="deposit_string">deposit</string>
+	<string name="friends_string">friends</string>
+</resources>
